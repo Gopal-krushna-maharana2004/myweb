@@ -1,0 +1,129 @@
+<div class="container p-3">
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+        quction1
+       </button>
+       
+      
+       <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+         <div class="modal-dialog">
+           <div class="modal-content">
+             <div class="modal-header">
+               <h1 class="modal-title fs-5" id="staticBackdropLabel">Modal title</h1>
+               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+             </div>
+             <div class="modal-body">
+               <iframe src="dl1.pdf.pdf" height="600" width="100%"></iframe>
+             </div>
+             <div class="modal-footer">
+               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+               
+             </div>
+           </div>
+         </div>
+       </div>
+       <!-- model 2  -->
+       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal2">
+         quction2
+       </button>
+       <div class="modal fade" id="modal2" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+         <div class="modal-dialog">
+           <div class="modal-content">
+             <div class="modal-header">
+               <h1 class="modal-title fs-5" id="modal2">Modal title</h1>
+               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+             </div>
+             <div class="modal-body">
+               <iframe src="dl2.pdf.pdf" height="600" width="100%"></iframe>
+             </div>
+             <div class="modal-footer">
+               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+               
+             </div>
+           </div>
+         </div>
+       </div>
+       <!-- modal 3 -->
+       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal3">
+         dl unit -1
+       </button>
+       <div class="modal fade" id="modal3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+         <div class="modal-dialog">
+           <div class="modal-content">
+             <div class="modal-header">
+               <h1 class="modal-title fs-5" id="modal3">Modal title</h1>
+               <button type="button" class="btn-close" data-bs-dismiss="modal3" aria-label="Close"></button>
+             </div>
+             <div class="modal-body">
+               <iframe src="dl2.pdf.pdf" height="600" width="100%"></iframe>
+             </div>
+             <div class="modal-footer">
+               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+               
+             </div>
+           </div>
+         </div>
+       </div>
+       <!-- modal 4  -->
+       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal3">
+         quction2
+       </button>
+       <div class="modal fade" id="modal3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+         <div class="modal-dialog">
+           <div class="modal-content">
+             <div class="modal-header">
+               <h1 class="modal-title fs-5" id="modal3">Modal title</h1>
+               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+             </div>
+             <div class="modal-body">
+               <iframe src="dl2.pdf.pdf" height="600" width="100%"></iframe>
+             </div>
+             <div class="modal-footer">
+               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+               
+             </div>
+           </div>
+         </div>
+       </div>
+       <!-- modal 5  -->
+       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal3">
+         quction2
+       </button>
+       <div class="modal fade" id="modal3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+         <div class="modal-dialog">
+           <div class="modal-content">
+             <div class="modal-header">
+               <h1 class="modal-title fs-5" id="modal3">Modal title</h1>
+               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+             </div>
+             <div class="modal-body">
+               <iframe src="dl2.pdf.pdf" height="600" width="100%"></iframe>
+             </div>
+             <div class="modal-footer">
+               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+               
+             </div>
+           </div>
+         </div>
+       </div>
+       <!-- modal 6  -->
+       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal3">
+         quction2
+       </button>
+       <div class="modal fade" id="modal3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+         <div class="modal-dialog">
+           <div class="modal-content">
+             <div class="modal-header">
+               <h1 class="modal-title fs-5" id="modal3">Modal title</h1>
+               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+             </div>
+             <div class="modal-body">
+               <iframe src="dl2.pdf.pdf" height="600" width="100%"></iframe>
+             </div>
+             <div class="modal-footer">
+               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+               
+             </div>
+           </div>
+         </div>
+       </div>
+</div>
